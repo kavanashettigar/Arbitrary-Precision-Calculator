@@ -21,4 +21,4 @@ This project implements an Arbitrary Precision Calculator to perform arithmetic 
 
 # How to Run
 1. Compile the program using: gcc *.c -o apc
-2. Run the executable: ./apc  <num1> <operation> <num2>
+2. Run the executable: ./apc  num1 operation num2
